@@ -1,6 +1,6 @@
-# Codveda Full-Stack Showcase (MERN + Auth + Realtime)
+# My Full-Stack Project Showcase (MERN + Auth + Realtime)
 
-This project was built as part of the **Codveda Full-Stack Development Internship**.  
+This project was built as part of my **Full-Stack Development Internship**.  
 It combines three major tasks into one cohesive application:
 
 1. **Authentication & Authorization (JWT + bcrypt)** – Secure signup/login, role-based access control  
@@ -45,7 +45,7 @@ npm run dev
 
 ---
 
-## ✅ Submission Checklist (Codveda)
+## ✅ Submission Checklist 
 
 - [x] Code pushed to GitHub (server + client)  
 - [x] `.env` ignored, `.env.example` included  
@@ -80,4 +80,5 @@ npm run dev
 ## 👤 Author
 
 **Faoziyyah  Busari**  
-Full-Stack Developer (MERN)    
+Full-Stack Developer (MERN) 
+ 

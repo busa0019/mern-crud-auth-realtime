@@ -16,7 +16,7 @@ export default function App() {
     <AuthProvider>
       <div className="nav">
         <div className="nav-inner">
-          <div className="brand"><Link to="/" style={{textDecoration:"none", color:"inherit"}}>Codveda Full-Stack</Link></div>
+          <div className="brand"><Link to="/" style={{textDecoration:"none", color:"inherit"}}>My Full-Stack App</Link></div>
           <div>
             <NavLink to="/" className={({isActive})=> isActive ? "active" : undefined}>Dashboard</NavLink>
             <NavLink to="/login" className={({isActive})=> isActive ? "active" : undefined}>Login</NavLink>
